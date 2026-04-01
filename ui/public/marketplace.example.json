@@ -1,0 +1,34 @@
+[
+  {
+    "id": "analog-clock",
+    "name": "Analog Clock",
+    "author": "RainTux Team",
+    "description": "A beautiful analog clock overlay for your desktop.",
+    "image": "",
+    "downloads": 1240
+  },
+  {
+    "id": "system-monitor",
+    "name": "System Monitor",
+    "author": "LinuxFan42",
+    "description": "CPU, RAM, and disk usage meters with a sleek dark theme.",
+    "image": "",
+    "downloads": 870
+  },
+  {
+    "id": "weather-widget",
+    "name": "Weather Widget",
+    "author": "DesktopCraft",
+    "description": "Current weather conditions and 5-day forecast overlay.",
+    "image": "",
+    "downloads": 2100
+  },
+  {
+    "id": "now-playing",
+    "name": "Now Playing",
+    "author": "MusicDev",
+    "description": "Shows currently playing track from Spotify or MPD.",
+    "image": "",
+    "downloads": 650
+  }
+]
